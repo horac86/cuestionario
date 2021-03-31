@@ -1,20 +1,28 @@
 # cuestionario
 
 Nombre de la persona responsable a cargo del proyecto de diseño: *
+Deponti Horacio y Robledo Juan.
 
 Datos de contacto (teléfono e email): *
+lissom.studio@gmail.com
 
 Describí en una frase/oración de que se trata tu marca. *
 
 ¿Cuál es el nombre de la marca? Si tiene algún significado o alguna historia atrás, ¡contame! *
+Lissom Studio, significa agíl, flexibilidad.
 
 ¿Tu marca tiene un slogan? ¿Cuál? *
 
 Si tuvieras que describir la marca en una palabra, ¿cuál sería? ¿por qué? *
+Versatil, nos amoldamos a la necesidad del cliente.
 
 ¿Tu producto o servicio, tiene actualmente una Identidad de Marca? (Elementos gráficos, tipografía y paleta cromática definida) *
+Si
+No
 
 ¿Tenes un logotipo que te diferencia e identifica en el mercado? *
+Si
+No
 
 ¿Cuál es la ventaja competitiva, valor agregado, aspecto que hace tu marca única? ¿Por qué? *
 
